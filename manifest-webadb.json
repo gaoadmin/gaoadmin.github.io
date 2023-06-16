@@ -1,12 +1,12 @@
 {
-  "name": "Android Debug Bridge WebApp",
+  "name": "WebADB For Adayo",
   "short_name": "WebADB",
   "display": "standalone",
   "icons": [
     {
-      "src": "Android_robot_204px.png",
+      "src": "Haval.png",
       "type": "image/png",
-      "sizes": "204x240"
+      "sizes": "288x288"
     }
   ],
   "start_url": "index.html"
